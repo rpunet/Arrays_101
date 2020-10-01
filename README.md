@@ -9,6 +9,7 @@ Introduction to Data Structure
 
 ## **Problems**
 
-n| Title | Tags | Level
----|:---|---|:---
-485| [Max Consecutive Ones](problems.md) | ``Array`` | Easy
+**#**| **Title** | **Tags** | **Level**
+-----|:----------|----------|:-----------
+0485| [Max Consecutive Ones](problems.md) | ``Array`` | Easy
+1295|[Find Numbers with Even Number of Digits](problems.md)|``Array``| Easy
