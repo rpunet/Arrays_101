@@ -11,5 +11,5 @@ Introduction to Data Structure
 
 **#**| **Title** | **Tags** | **Level**
 -----|:----------|----------|:-----------
-0485| [Max Consecutive Ones](problems.md) | ``Array`` | Easy
+0485| [Max Consecutive Ones](problems.md/#485---max-consecutive-ones) | ``Array`` | Easy
 1295|[Find Numbers with Even Number of Digits](problems.md/#1295---find-numbers-with-even-number-of-digits)|``Array``| Easy
