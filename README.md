@@ -12,4 +12,4 @@ Introduction to Data Structure
 **#**| **Title** | **Tags** | **Level**
 -----|:----------|----------|:-----------
 0485| [Max Consecutive Ones](problems.md) | ``Array`` | Easy
-1295|[Find Numbers with Even Number of Digits](problems.md #Find-Numbers-with-Even-Number-of-Digits)|``Array``| Easy
+1295|[Find Numbers with Even Number of Digits](problems.md/#Find-Numbers-with-Even-Number-of-Digits)|``Array``| Easy
