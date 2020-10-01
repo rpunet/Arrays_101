@@ -1,4 +1,5 @@
 **# Arrays_101**
+
 Introduction to Data Structure
 ```
 What an Array is.
