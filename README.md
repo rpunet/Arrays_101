@@ -11,4 +11,4 @@ Introduction to Data Structure
 
 n| Title | Tags | Level
 ---|:---|---|:---
-485| [Max Consecutive Ones](README.md) | ``Array`` | Easy
+485| [Max Consecutive Ones](problems.md) | ``Array`` | Easy
