@@ -1,4 +1,4 @@
-**# Arrays_101**
+**# ARRAYS_101**
 
 Introduction to Data Structure
 
@@ -7,3 +7,8 @@ Introduction to Data Structure
 - Implementing basic Array operations.
 - Simple programming techniques with Arrays.
 
+**## Problems**
+
+n| Title | Tags | Level
+---|:---|---|:---
+485| [Max Consecutive Ones](README.md) | ``Array`` | Easy
