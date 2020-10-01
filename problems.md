@@ -1,6 +1,6 @@
 # **485 - Max Consecutive Ones**
 
-([C](C/max_consecutive_ones.c) / [Python 3](Python/max_consecutive_ones.py))
+([C](C/max_consecutive_ones.c) / [Python 3](Python3/max_consecutive_ones.py))
 
 Given a binary array, find the maximum number of consecutive 1s in this array.
 ```
@@ -19,7 +19,7 @@ Explanation: The first two digits or the last three digits are consecutive 1s.
 
 # **1295 - Find Numbers with Even Number of Digits**
 
-([C](C/find_number_even_digits.c) / [Python 3](Python/find_number_even_digits.py))
+([C](C/find_number_even_digits.c) / [Python 3](Python3/find_number_even_digits.py))
 
 Given an array nums of integers, return how many of them contain an even number of digits.
  ```
