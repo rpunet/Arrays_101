@@ -40,7 +40,8 @@ Output: [4,9,9,49,121]
 3. A is sorted in non-decreasing order.
 
 # **1089 - Duplicate Zeros**
-([C](C/duplicate_zeros.c) 
+
+([C](C/duplicate_zeros.c))
 
 Given a fixed length array arr of integers, duplicate each occurrence of zero, shifting the remaining elements to the right.
 
