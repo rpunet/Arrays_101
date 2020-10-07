@@ -116,6 +116,49 @@ Output: [1,3,12,0,0]
 1. You must do this in-place without making a copy of the array.
 2. Minimize the total number of operations.
 
+# **414 - Third Maximum Number**
+
+([C](C/third_max.c))
+
+Given a non-empty array of integers, return the third maximum number in this array. If it does not exist, return the maximum number. The time complexity must be in O(n).
+```
+Example 1:
+Input: [3, 2, 1]
+Output: 1
+Explanation: The third maximum is 1.
+
+Example 2:
+Input: [1, 2]
+Output: 2
+Explanation: The third maximum does not exist, so the maximum (2) is returned instead.
+
+Example 3:
+Input: [2, 2, 3, 1]
+Output: 1
+Explanation: Note that the third maximum here means the third maximum distinct number.
+Both numbers with value 2 are both considered as second maximum.
+```
+
+
+# **448 - Find All Numbers Disappeared in an Array**
+
+([C](C/find_disappeared_numbers.c))
+
+Given an array of integers where 1 ≤ a[i] ≤ n (n = size of array), some elements appear twice and others appear once.
+
+Find all the elements of [1, n] inclusive that do not appear in this array.
+
+Could you do it without extra space and in O(n) runtime? You may assume the returned list does not count as extra space.
+```
+Example:
+
+Input:
+[4,3,2,7,8,2,3,1]
+
+Output:
+[5,6]
+```
+
 # **485 - Max Consecutive Ones**
 
 ([C](C/max_consecutive_ones.c) / [Python 3](Python3/max_consecutive_ones.py))
@@ -210,6 +253,42 @@ Output: [4,9,9,49,121]
 1. 1 <= A.length <= 10000
 2. -10000 <= A[i] <= 10000
 3. A is sorted in non-decreasing order.
+
+# **1051 - Height Checker**
+
+([C](C/height_checker.c))
+
+Students are asked to stand in non-decreasing order of heights for an annual photo.
+
+Return the minimum number of students that must move in order for all students to be standing in non-decreasing order of height.
+
+Notice that when a group of students is selected they can reorder in any possible way between themselves and the non selected students remain on their seats.
+```
+Example 1:
+
+Input: heights = [1,1,4,2,1,3]
+Output: 3
+Explanation: 
+Current array : [1,1,4,2,1,3]
+Target array  : [1,1,1,2,3,4]
+On index 2 (0-based) we have 4 vs 1 so we have to move this student.
+On index 4 (0-based) we have 1 vs 3 so we have to move this student.
+On index 5 (0-based) we have 3 vs 4 so we have to move this student.
+
+Example 2:
+
+Input: heights = [5,1,2,3,4]
+Output: 5
+
+Example 3:
+
+Input: heights = [1,2,3,4,5]
+Output: 0
+ ```
+**Constraints:**
+
+- 1 <= heights.length <= 100
+- 1 <= heights[i] <= 100
 
 # **1089 - Duplicate Zeros**
 
