@@ -16,7 +16,7 @@ bool checkIfExist(int* arr, int arrSize)
 }
 
 /*
-
+//_--------------------ONE PASS hash table solution------------------_
 bool checkIfExist(int* arr, int arrSize)
 {
     int hash[2001];
