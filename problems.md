@@ -132,7 +132,7 @@ Recall that A is a mountain array if and only if:
   - A[0] < A[1] < ... A[i-1] < A[i]
   - A[i] > A[i+1] > ... > A[A.length - 1]
   
- [[https://github.com/rpunet/Arrays_101/hint_valid_mountain_array (1).png]]
+ (https://github.com/rpunet/Arrays_101/hint_valid_mountain_array(1).png)
  
 ```
 Example 1:
