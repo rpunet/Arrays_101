@@ -131,6 +131,9 @@ Recall that A is a mountain array if and only if:
 - There exists some i with 0 < i < A.length - 1 such that:
   - A[0] < A[1] < ... A[i-1] < A[i]
   - A[i] > A[i+1] > ... > A[A.length - 1]
+  
+ [[https://github.com/rpunet/Arrays_101/hint_valid_mountain_array (1).png]]
+ 
 ```
 Example 1:
 
