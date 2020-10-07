@@ -24,7 +24,6 @@ Introduction to Data Structure
 1051|[Height Checker](problems.md/#1051---height-checker)|``Array``|Easy
 1089|[Duplicate Zeros](problems.md/#1089---duplicate-zeros)|``Array``| Easy
 1295|[Find Numbers with Even Number of Digits](problems.md/#1295---find-numbers-with-even-number-of-digits)|``Array``| Easy
-
 1299|[Replace Elements with Greatest Element on Right Side](problems.md/#1299---replace-elements-with-greatest-element-on-right-side)|``Array``|Easy
 1346|[Check If N and Its Double Exist](problems.md/#1346---check-if-n-and-its-double-exist)|``Array``|Easy
 
