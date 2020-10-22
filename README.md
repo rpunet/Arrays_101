@@ -20,7 +20,7 @@ Introduction to Data Structure
 0485|[Max Consecutive Ones](problems.md/#485---max-consecutive-ones)|``Array``|Easy
 0905|[Sort Array By Parity](problems.md/#905---sort-array-by-parity)|``Array``|Easy
 0941|[Valid Mountain Array](problems.md/#941---valid-mountain-array)|``Array``|Easy
-0977|[Squares of a Sorted Array](problems.md/#977---squares-of-a-sorted-array)|```Array``` ```Two Pointers```| Easy
+0977|[Squares of a Sorted Array](problems.md/#977---squares-of-a-sorted-array)|```Array```  ```Two Pointers```| Easy
 1051|[Height Checker](problems.md/#1051---height-checker)|``Array``|Easy
 1089|[Duplicate Zeros](problems.md/#1089---duplicate-zeros)|``Array``| Easy
 1295|[Find Numbers with Even Number of Digits](problems.md/#1295---find-numbers-with-even-number-of-digits)|``Array``| Easy
